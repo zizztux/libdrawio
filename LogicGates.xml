@@ -1,8 +1,8 @@
 <mxlibrary>[
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(rVXLboMwEPwaXyOwRXKOnPZS5dBPcGATrBgbGefRv8+CiRqTgqgTicvO2jOzDwvCeFOKGghNRFND7gjbEErPwkqxUwhTzFw8yBIflj5c9qEWFXhkreRBQ4HY9qScrBVcwfpDjbPmCBdZuP621CVY6dos+yDJGs+0H+O50Rp9SKObIPOQRzIhtQu0N16nRtIKHMp2aG/xGkQ/fbSgmQcI/fyP1PcMqfQ9UvwrQms1osU4ImPtZXwn8uPBmpMu/nRYi3Z0T4l7ujJn+LWUhZamar8TKKkfCAYMk92bxxBBETIsZ5WRK9PAxKARH+kkvsTukYxNbmQ+jO+NhXcNLnwiacTksgiGKQ/sZQ/zGEIPA4qYFWZJBEXoIh0UslpEbPGAJJv08cqCPu1hh/rfSwfcAA==);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-2.2737367544323206e-13\" width=\"60\" height=\"90\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 60,
-    "h": 90,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(rVXLboMwEPwaXytiQ5Jr5DSXqod8ggPbYMXYyDiP/n0NJmpMakRNJC47Y2YG765AhDYlqwHhhDU15AaRLcL4wjRnB2FhbJmrA9PElaUr130pWQUO2Qh+lFBY7PMsDK8F3EC7Q43R6gRXXpj+bS5L0Ny0LHlHycaeaR9CcyWlzcGVbDzmgbdijEvjeW+dT21FKzDWtkP7iDev+u6rN5w5AOHdf6z2E6wWr7GiHxFeq4AXoRYJXS+hB5afjlqdZfFnwpq1rXsi7nSlLvAbKfMjjX37XUBw+SBAfIXFfIlVhISvsJ6kkAvVwEinLR64SruK3ZaEWhdoEKFfSsOrOufvSEzrsgiFsQzL2RmmKfgZBtOTRoRIkwgJP8XgKkKbPZZiIDE+xHPG82kKO9T9XTrgBw==);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 60,
     "aspect": "fixed",
     "title": "Multiplexer"
   }
