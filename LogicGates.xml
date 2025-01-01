@@ -7,10 +7,10 @@
     "title": "Multiplexer"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=stencil(rZXBboMwDIafhuMmmsC260THZadqT5CCaa2GJAoZ7d5+gYDUjAZRVomLfyf2ZxMnEc2aI1MQkZg1CgoT0W1ESMs0sj23MrGesxPT2JlHZ74NpmA1OCXnqJ5yLpVVv7BWHCuE0q1qjJYnOGNphu0ojqDRdF76EcXvdk330ayQQlgQlKLxPFd+G4yhMF7yrcujbNAaDGinDowXz/oZrGeSOiEi+T2pdgtSbR6TKvtcUdZrIBfNrBJqL832rDgdtPwW5U1C3Z2Oyd8fzkbiE6U+0QxOICnNKqlhhqZCzt2ZmmmqYt1pmzhGdy1bCHUxBO1H4CggVPWyCHMML/9mWBbBZ0jWlPEHYk0vfQofIp2dntsQG/LoZi6CMHDpxoRxPAi3rwDRDe54DXrXVXu1rsayHK/csYY1jVxIsFtEkNxD0E90YOjsQxMa137bZN571T1OvfAL);fontSize=12;aspect=fixed;labelPosition=center;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"52.5\" height=\"70\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 52.5,
-    "h": 70,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=stencil(rZXBboMwDIafhuMmmsC260THZadqT5CCaa2GJAoZ7d5+gYDUjAZRVomLfyf2ZxMnEc2aI1MQkZg1CgoT0W1ESMs0sj23MrGesxPT2JlHZ74NpmA1OCXnqJ5yLpVVv7BWHCuE0q1qjJYnOGNphu0ojqDRdF76EcXvdk330ayQQlgQlKLxPFd+G4yhMF7yrcujbNAaDGinDowXz/oZrGeSOiEi+T2pdgtSbR6TKvtcUdZrIBfNrBJqL832rDgdtPwW5U1C3Z2Oyd8fzkbiE6U+0QxOICnNKqlhhqZCzt2ZmmmqYt1pmzhGdy1bCHUxBO1H4CggVPWyCHMML/9mWBbBZ0jWlPEHYk0vfQofIp2dntsQG/LoZi6CMHDpxoRxPAi3rwDRDe54DXrXVXu1rsayHK/csYY1jVxIsFtEkNxD0E90YOjsQxMa137bZN571T1OvfAL);fontSize=12;labelPosition=center;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 60.00000000000001,
     "aspect": "fixed",
-    "title": "Simplified Flip-Flop"
+    "title": "Flip-Flop Simplified"
   }
 ]</mxlibrary>
