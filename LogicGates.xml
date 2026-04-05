@@ -21,17 +21,17 @@
     "title": "Flip-Flop Simplified"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" connectable=\"0\" parent=\"1\" style=\"group\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"10\" width=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" parent=\"2\" style=\"text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;resizable=0;editable=0;movable=1;rotatable=1;deletable=1;locked=0;connectable=0;\" value=\"XM\" vertex=\"1\"&gt;&lt;mxGeometry height=\"10\" width=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" parent=\"2\" style=\"ellipse;html=1;aspect=fixed;fontSize=10;resizable=0;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"10\" width=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"\" ProtoLabel=\"XM\" id=\"2\"&gt;&lt;mxCell parent=\"1\" style=\"shape=stencil(rVXBboMwDP2aXCcg6u4TY9qkaaq0w84BTLEaEpRktN3XL2CqFQ0oo5OQwC+2n22SF8ZjW4oaWBQoUQHjjyyKEimxtvCiHJhCZLDVxnnY+xzIIQzILIemsDVkjrBGGBSpBFqxzug9HDB3fQiqEgx2WXnCggfv0z48zrRSPglqZQcrF+s+mUDlY4MjJevpTwOr9vkr8B30NRL60+TbByEselpOdLdZRfV3pnAVT7KipSHRucFrVCuGF65jurmncBnP+z/sh6VUtw5vKc/E7HjskamDxuNUZPud0Z8qHy0PSB2uHL95pRitaIKXx4U2MFNQgVKSwMwMtdDKWfxqXbpXV879/I9oYwpRoTx5u//o4p5BNuAwE/PxDo6OxI/CWLTZGu30q0hBeoOi+ykOd1JvCYk7RUgGrRwT3FzgFeb5WWZr6dW61DIHYwd7YnTev8baoXQddMA3);html=1;resizable=0;fontSize=10;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"10\" width=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 10,
     "h": 10,
     "aspect": "fixed",
-    "title": "AXI4c_m"
+    "title": "EllipseInterfacePort"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"\" ProtoLabel=\"XM\" id=\"2\"&gt;&lt;mxCell parent=\"1\" style=\"shape=stencil(nZTBboMwDIafJtcpJOoDTKzTJk1TpR12DsGUqCFBSUbZnn4Bp1rRgHUc/9+yP8fYEJ77WrRAGDWiAcIfCGPPJoCrhISDdSHqGDxjhFGUNcosSeFbkAG9TjglCg0Y8cHZE5xVGVKKMjU4NVble0LvyVCSEp5La0wsoqzxk8hVPBYTysRc2mMxerdDzGfSqNpIaCC+YeL+vO8VDcIeN5Oy20hvG0jTF124f5He/0/KtpH28ySeR2fpI/K8EPJ0dPbDlLP9uWF/lmZwywrOtrMA5XllHax0UymtcXNXRlrZcZhefcG0lUo0Sqfen0B3EJQU658nQB/wWjCNsN3B2WBfRAE6Cszup5yESEGh1dGgI2E4YLS7K79RZXk5zFbH+66tLsH5yTrMDvLXvEYX/xyj8Q0=);html=1;resizable=0;editable=1;movable=1;rotatable=1;deletable=1;locked=0;connectable=1;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"10\" width=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"\" ProtoLabel=\"XM\" id=\"2\"&gt;&lt;mxCell parent=\"1\" style=\"shape=stencil(nVTBboQgEP0aro1C9gMau02bNM2mPfSMOK5kEQxQ1+3XFx021VTt1pO8N7x5wzhAWOYq3gChieY1EPZAKH0D4Z+1B1tyAQdjfeDChjNGaYKwQphGyF0TZMi13EqeK8CI89ac4CwLHyVSV2DlkJXtSXJP+pQJYZkwWock0mg3iYziIRmXOmiTDpMldzu0uUSMqAkONYQzxCqR/TnjKxKEPm52Sm9zet/gND3R1fcvp4//O6XbnPbzTiwLzNJPZFnOxelozacuZuuz/fws9eCWEZwtZ8GUZaWxsFJNKZXCyV1paWm0d/Kr3zJ8VssZi0peS3UJOC4G4ROoFrwUfF3vofN4rVBG6O5gjTcvPAcVAKq7aTHRIga5kkeNjID+piPdjvhaFsX1BjcqPASVUQVYN5mI2Y7/auzA4jMzEN8=);html=1;resizable=0;editable=1;movable=1;rotatable=1;deletable=1;locked=0;connectable=1;fontSize=10;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"10\" width=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 20,
     "h": 10,
     "aspect": "fixed",
-    "title": "InterfacePort"
+    "title": "RectInterfacePort"
   }
 ]</mxlibrary>
